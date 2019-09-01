@@ -8,6 +8,7 @@ body {
 
   color: white;
   font-size: 1.5vw;
+  //overflow:hidden;
 }
 /* @media screen and (min-width: 601px) {
   div.body {
@@ -46,7 +47,7 @@ body {
 
 .NameLogo{
   width: 45%;
-  margin-left: 25%;
+  margin-left: 23%;
 }
 
 .CSCE445 {
@@ -95,6 +96,11 @@ body {
 
 .consumptionText {
   font-size: 2vw;
-  margin-left: 3%;
-  margin-top: 1%;
+  text-decoration: underline;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+.mediaList {
+  margin-left: 5%;
 }
