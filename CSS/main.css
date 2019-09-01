@@ -7,7 +7,7 @@ body {
   background-attachment: fixed;
 
   color: white;
-  font-size: 2vw;
+  font-size: 1.5vw;
 }
 /* @media screen and (min-width: 601px) {
   div.body {
@@ -20,6 +20,10 @@ body {
     font-size: 30px;
   }
 } */
+
+.par{
+  font-size: 1.5vw;
+}
 
 .footer {
   font: courier;
@@ -58,7 +62,7 @@ body {
   width: 75%;
   margin-left: 10%;
   float: left;
-  //margin-top: 130px;
+  margin-top: 2% ;
 
 
   //padding-top: 5px;
@@ -87,4 +91,10 @@ body {
   //box-shadow: 0 5px 10px #00b286, 0 0 0 3px #00b286;
   float:left;
 
+}
+
+.consumptionText {
+  font-size: 2vw;
+  margin-left: 3%;
+  margin-top: 1%;
 }
