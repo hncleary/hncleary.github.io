@@ -1,0 +1,90 @@
+body {
+  background-image: url("../Graphics/background v2.png");
+  background-color: Blue;
+  background-color: #999999;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  color: white;
+  font-size: 2vw;
+}
+/* @media screen and (min-width: 601px) {
+  div.body {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.body {
+    font-size: 30px;
+  }
+} */
+
+.footer {
+  font: courier;
+  font-size: 14px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #00b286;
+  color: white;
+  text-align: center;
+}
+
+.backgroundPalms {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.NameLogo{
+  width: 45%;
+  margin-left: 25%;
+}
+
+.CSCE445 {
+  width: 5%;
+}
+
+.MainBox {
+
+  background-color: #1a1e21;
+  border-radius: 5px;
+  box-shadow: 0 10px 40px #00b286, 0 0 0 3px #00b286;
+
+  width: 75%;
+  margin-left: 10%;
+  float: left;
+  //margin-top: 130px;
+
+
+  //padding-top: 5px;
+  //padding-left: 15px;
+  //padding-right: 15px;
+
+}
+
+.personalPhoto {
+  width: 25%;
+  margin-left: 3%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+
+
+  border-radius: 5px;
+  box-shadow: 0 5px 10px #00b286, 0 0 0 3px #00b286;
+  float:left;
+}
+
+.photoText {
+  margin-left: 3%;
+  margin-top: 3%;
+
+  //border-radius: 5px;
+  //box-shadow: 0 5px 10px #00b286, 0 0 0 3px #00b286;
+  float:left;
+
+}
